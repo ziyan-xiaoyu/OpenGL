@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1653528982 source:e:\《computer programming》\opengl\实验代码\实验四 曲线\smallpt\main.cpp
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<random>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1651251817 source:e:\《computer programming》\opengl\实验代码\实验二\polyline-clipping\main.cpp
+	<iostream>
+	<vector>
+	"lineClipping.h"
+
+1651134969 e:\《computer programming》\opengl\实验代码\实验二\polyline-clipping\lineclipping.h
+	<iostream>
+	<vector>
+	<windows.h>
+	<GL/glut.h>
+

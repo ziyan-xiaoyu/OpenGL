@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1650725396 source:e:\《computer programming》\opengl\实验代码\实验一\elllispe\main.cpp
+	<iostream>
+	<math.h>
+	"onMidPointEllispe.h"
+
+1650499868 e:\《computer programming》\opengl\实验代码\实验一\elllispe\onmidpointellispe.h
+	<vector>
+	<windows.h>
+	<GL/glut.h>
+

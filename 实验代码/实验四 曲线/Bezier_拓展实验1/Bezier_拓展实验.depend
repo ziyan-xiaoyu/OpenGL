@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1653217930 source:e:\《computer programming》\opengl\实验代码\实验四 曲线\bezier_拓展实验\main.cpp
+	<iostream>
+	<vector>
+	<windows.h>
+	<GL/glut.h>
+	<cstdio>
+	"graphicType.h"
+
+1652317126 e:\《computer programming》\opengl\实验代码\实验四 曲线\bezier_拓展实验\graphictype.h
+

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1651945443 source:e:\《computer programming》\opengl\实验代码\实验三 正交投影与透视投影\o&p_projection\main.cpp
+	<iostream>
+	<vector>
+	<windows.h>
+	<gl/glut.h>
+	"setLookAt.h"
+	"getAxis.h"
+	"getTetrahedron.h"
+
+1651945530 e:\《computer programming》\opengl\实验代码\实验三 正交投影与透视投影\o&p_projection\setlookat.h
+	<gl/glut.h>
+	<math.h>
+
+1651709793 e:\《computer programming》\opengl\实验代码\实验三 正交投影与透视投影\o&p_projection\getaxis.h
+	<windows.h>
+	<gl/glut.h>
+
+1651709813 e:\《computer programming》\opengl\实验代码\实验三 正交投影与透视投影\o&p_projection\gettetrahedron.h
+	<gl/glut.h>
+
